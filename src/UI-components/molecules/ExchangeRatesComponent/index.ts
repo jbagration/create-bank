@@ -1,0 +1,1 @@
+export { ExchangeRatesTable } from './ExchangeRatesTable'

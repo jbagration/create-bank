@@ -1,0 +1,1 @@
+export { InfoStatisticsBlock } from './InfoStatisticsBlock'

@@ -1,0 +1,152 @@
+[33m5c8e87e[m[33m ([m[1;36mHEAD -> [m[1;32mAFI-649[m[33m)[m HEAD@{0}: rebase (continue) (finish): returning to refs/heads/AFI-649
+[33m5c8e87e[m[33m ([m[1;36mHEAD -> [m[1;32mAFI-649[m[33m)[m HEAD@{1}: rebase (continue): refactor map
+[33mb24a199[m HEAD@{2}: rebase (continue): add Contacts and Map
+[33m019777e[m HEAD@{3}: rebase (pick): install 2gis/mapgl
+[33m3c4af08[m[33m ([m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{4}: rebase (start): checkout develop
+[33m293ada2[m[33m ([m[1;31morigin/AFI-649[m[33m)[m HEAD@{5}: checkout: moving from develop to AFI-649
+[33m3c4af08[m[33m ([m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{6}: pull: Fast-forward
+[33mcbbd976[m HEAD@{7}: checkout: moving from AFI-649 to develop
+[33m293ada2[m[33m ([m[1;31morigin/AFI-649[m[33m)[m HEAD@{8}: commit: refactor map
+[33me11e33a[m HEAD@{9}: commit: add Contacts and Map
+[33m4379722[m HEAD@{10}: commit: Fix
+[33m62ad7d7[m HEAD@{11}: commit: add Model
+[33m2487dc0[m HEAD@{12}: commit (merge): merge
+[33m5aafab9[m HEAD@{13}: commit: Model finished
+[33m8fc5c2d[m HEAD@{14}: rebase (continue) (finish): returning to refs/heads/AFI-649
+[33m8fc5c2d[m HEAD@{15}: rebase (continue): Change map
+[33me43be28[m HEAD@{16}: rebase (pick): install 2gis/mapgl
+[33mcbbd976[m HEAD@{17}: rebase (start): checkout develop
+[33m3ce72b9[m HEAD@{18}: checkout: moving from develop to AFI-649
+[33mcbbd976[m HEAD@{19}: pull: Fast-forward
+[33mda66ac7[m HEAD@{20}: checkout: moving from AFI-649 to develop
+[33m3ce72b9[m HEAD@{21}: commit: Change map
+[33m6c57017[m HEAD@{22}: checkout: moving from develop to AFI-649
+[33mda66ac7[m HEAD@{23}: checkout: moving from AFI-649 to develop
+[33m6c57017[m HEAD@{24}: commit: install 2gis/mapgl
+[33mda66ac7[m HEAD@{25}: checkout: moving from develop to AFI-649
+[33mda66ac7[m HEAD@{26}: checkout: moving from AFI-649 to develop
+[33m5d1991d[m HEAD@{27}: checkout: moving from develop to AFI-649
+[33mda66ac7[m HEAD@{28}: checkout: moving from AFI-610 to develop
+[33ma25150f[m[33m ([m[1;31morigin/AFI-610[m[33m, [m[1;32mAFI-610[m[33m)[m HEAD@{29}: checkout: moving from AFI-610 to AFI-610
+[33ma25150f[m[33m ([m[1;31morigin/AFI-610[m[33m, [m[1;32mAFI-610[m[33m)[m HEAD@{30}: checkout: moving from mainpage to AFI-610
+[33med420ff[m[33m ([m[1;32mmainpage[m[33m)[m HEAD@{31}: checkout: moving from AFI-610 to mainpage
+[33ma25150f[m[33m ([m[1;31morigin/AFI-610[m[33m, [m[1;32mAFI-610[m[33m)[m HEAD@{32}: checkout: moving from mainpage to AFI-610
+[33med420ff[m[33m ([m[1;32mmainpage[m[33m)[m HEAD@{33}: commit: mega super mainpage
+[33md5dfdfc[m HEAD@{34}: commit: change header
+[33m56f0999[m HEAD@{35}: pull: Fast-forward
+[33m1c6c774[m HEAD@{36}: checkout: moving from develop to mainpage
+[33mda66ac7[m HEAD@{37}: checkout: moving from mainpage to develop
+[33m1c6c774[m HEAD@{38}: reset: moving to HEAD
+[33m1c6c774[m HEAD@{39}: checkout: moving from develop to mainpage
+[33mda66ac7[m HEAD@{40}: checkout: moving from mainpage to develop
+[33m1c6c774[m HEAD@{41}: reset: moving to HEAD
+[33m1c6c774[m HEAD@{42}: checkout: moving from develop to mainpage
+[33mda66ac7[m HEAD@{43}: pull: Fast-forward
+[33m3fb6bcc[m HEAD@{44}: checkout: moving from AFI-550 to develop
+[33mce111d7[m[33m ([m[1;31morigin/AFI-550[m[33m, [m[1;32mAFI-550[m[33m)[m HEAD@{45}: commit (merge): merge
+[33m6326818[m HEAD@{46}: checkout: moving from AFI-header to AFI-550
+[33m936b4ce[m[33m ([m[1;31morigin/AFI-header[m[33m, [m[1;32mAFI-header[m[33m)[m HEAD@{47}: checkout: moving from develop to AFI-header
+[33m3fb6bcc[m HEAD@{48}: pull: Fast-forward
+[33m5d1991d[m HEAD@{49}: checkout: moving from AFI-550 to develop
+[33m6326818[m HEAD@{50}: commit: change header
+[33m936b4ce[m[33m ([m[1;31morigin/AFI-header[m[33m, [m[1;32mAFI-header[m[33m)[m HEAD@{51}: checkout: moving from AFI-649 to AFI-550
+[33m5d1991d[m HEAD@{52}: checkout: moving from develop to AFI-649
+[33m5d1991d[m HEAD@{53}: checkout: moving from AFI-649 to develop
+[33m5d1991d[m HEAD@{54}: checkout: moving from develop to AFI-649
+[33m5d1991d[m HEAD@{55}: checkout: moving from AFI-610 to develop
+[33ma25150f[m[33m ([m[1;31morigin/AFI-610[m[33m, [m[1;32mAFI-610[m[33m)[m HEAD@{56}: commit: add Stepper
+[33mdf29f8f[m HEAD@{57}: pull: Fast-forward
+[33m1af287b[m HEAD@{58}: commit: add stepper Text
+[33m1653a37[m HEAD@{59}: checkout: moving from AFI-526 to AFI-610
+[33m31ee742[m[33m ([m[1;31morigin/AFI-526[m[33m, [m[1;32mAFI-526[m[33m)[m HEAD@{60}: checkout: moving from develop to AFI-526
+[33m5d1991d[m HEAD@{61}: checkout: moving from AFI-610 to develop
+[33m1653a37[m HEAD@{62}: commit: add Stepper
+[33m5b88436[m HEAD@{63}: checkout: moving from AFI-526 to AFI-610
+[33m31ee742[m[33m ([m[1;31morigin/AFI-526[m[33m, [m[1;32mAFI-526[m[33m)[m HEAD@{64}: commit (merge): Merge branch 'develop' into AFI-526
+[33m5728bff[m HEAD@{65}: checkout: moving from develop to AFI-526
+[33m5d1991d[m HEAD@{66}: checkout: moving from AFI-610 to develop
+[33m5b88436[m HEAD@{67}: commit: ferst commit
+[33m5d1991d[m HEAD@{68}: checkout: moving from develop to AFI-610
+[33m5d1991d[m HEAD@{69}: checkout: moving from AFI-610 to develop
+[33m5d1991d[m HEAD@{70}: checkout: moving from develop to AFI-610
+[33m5d1991d[m HEAD@{71}: pull: Fast-forward
+[33m89c4834[m HEAD@{72}: checkout: moving from AFI-550 to develop
+[33m936b4ce[m[33m ([m[1;31morigin/AFI-header[m[33m, [m[1;32mAFI-header[m[33m)[m HEAD@{73}: commit: AFI-550: add Header
+[33m34c749f[m HEAD@{74}: Branch: renamed refs/heads/AFI-header to refs/heads/AFI-550
+[33m34c749f[m HEAD@{76}: checkout: moving from AFI-512 to AFI-header
+[33m4908d7b[m[33m ([m[1;31morigin/AFI-512[m[33m, [m[1;32mAFI-512[m[33m)[m HEAD@{77}: commit (merge): Merge branch develop into AFI-512
+[33mdb9e447[m HEAD@{78}: checkout: moving from develop to AFI-512
+[33m89c4834[m HEAD@{79}: pull: Fast-forward
+[33m441ffa6[m HEAD@{80}: checkout: moving from AFI-512 to develop
+[33mdb9e447[m HEAD@{81}: checkout: moving from AFI-header to AFI-512
+[33m34c749f[m HEAD@{82}: commit: add Header
+[33md874ec2[m HEAD@{83}: checkout: moving from AFI-512 to AFI-header
+[33mdb9e447[m HEAD@{84}: rebase (continue) (finish): returning to refs/heads/AFI-512
+[33mdb9e447[m HEAD@{85}: rebase (continue): add comment
+[33m192893e[m HEAD@{86}: rebase (continue): add Checkbox
+[33m441ffa6[m HEAD@{87}: rebase (start): checkout develop
+[33mef696bc[m HEAD@{88}: checkout: moving from AFI-526 to AFI-512
+[33m5728bff[m HEAD@{89}: checkout: moving from AFI-526 to AFI-526
+[33m5728bff[m HEAD@{90}: checkout: moving from develop to AFI-526
+[33m441ffa6[m HEAD@{91}: checkout: moving from AFI-512 to develop
+[33mef696bc[m HEAD@{92}: checkout: moving from develop to AFI-512
+[33m441ffa6[m HEAD@{93}: checkout: moving from AFI-526 to develop
+[33m5728bff[m HEAD@{94}: rebase (continue) (finish): returning to refs/heads/AFI-526
+[33m5728bff[m HEAD@{95}: rebase (continue): add radiobutton
+[33m441ffa6[m HEAD@{96}: rebase (start): checkout develop
+[33mf48e0aa[m HEAD@{97}: checkout: moving from develop to AFI-526
+[33m441ffa6[m HEAD@{98}: pull: Fast-forward
+[33mfe91512[m HEAD@{99}: checkout: moving from AFI-header to develop
+[33md874ec2[m HEAD@{100}: commit: ferst commit
+[33mfe91512[m HEAD@{101}: checkout: moving from develop to AFI-header
+[33mfe91512[m HEAD@{102}: checkout: moving from AFI-header to develop
+[33mfe91512[m HEAD@{103}: checkout: moving from develop to AFI-header
+[33mfe91512[m HEAD@{104}: checkout: moving from AFI-526 to develop
+[33mf48e0aa[m HEAD@{105}: checkout: moving from AFI-512 to AFI-526
+[33mef696bc[m HEAD@{106}: checkout: moving from AFI-526 to AFI-512
+[33mf48e0aa[m HEAD@{107}: checkout: moving from AFI-526 to AFI-526
+[33mf48e0aa[m HEAD@{108}: checkout: moving from develop to AFI-526
+[33mfe91512[m HEAD@{109}: checkout: moving from develop to develop
+[33mfe91512[m HEAD@{110}: checkout: moving from AFI-513 to develop
+[33m4851a48[m[33m ([m[1;31morigin/AFI-513[m[33m, [m[1;32mAFI-513[m[33m)[m HEAD@{111}: checkout: moving from AFI-526 to AFI-513
+[33mf48e0aa[m HEAD@{112}: checkout: moving from AFI-513 to AFI-526
+[33m4851a48[m[33m ([m[1;31morigin/AFI-513[m[33m, [m[1;32mAFI-513[m[33m)[m HEAD@{113}: checkout: moving from AFI-513 to AFI-513
+[33m4851a48[m[33m ([m[1;31morigin/AFI-513[m[33m, [m[1;32mAFI-513[m[33m)[m HEAD@{114}: checkout: moving from develop to AFI-513
+[33mfe91512[m HEAD@{115}: pull: Fast-forward
+[33m8de5132[m HEAD@{116}: checkout: moving from AFI-512 to develop
+[33mef696bc[m HEAD@{117}: checkout: moving from AFI-526 to AFI-512
+[33mf48e0aa[m HEAD@{118}: commit: add radiobutton
+[33m8de5132[m HEAD@{119}: checkout: moving from develop to AFI-526
+[33m8de5132[m HEAD@{120}: checkout: moving from AFI-512 to develop
+[33mef696bc[m HEAD@{121}: commit: add comment
+[33mc8f145c[m HEAD@{122}: commit: add Checkbox
+[33m8de5132[m HEAD@{123}: checkout: moving from develop to AFI-512
+[33m8de5132[m HEAD@{124}: checkout: moving from AFI-512 to develop
+[33m8de5132[m HEAD@{125}: reset: moving to HEAD
+[33m8de5132[m HEAD@{126}: checkout: moving from develop to AFI-512
+[33m8de5132[m HEAD@{127}: pull: Fast-forward
+[33m3916e1e[m HEAD@{128}: reset: moving to HEAD
+[33m3916e1e[m HEAD@{129}: checkout: moving from AFI-512 to develop
+[33mce3bddb[m[33m ([m[1;31morigin/AFI-504-505[m[33m)[m HEAD@{130}: reset: moving to HEAD
+[33mce3bddb[m[33m ([m[1;31morigin/AFI-504-505[m[33m)[m HEAD@{131}: rebase (abort): updating HEAD
+[33m3916e1e[m HEAD@{132}: rebase (start): checkout develop
+[33mce3bddb[m[33m ([m[1;31morigin/AFI-504-505[m[33m)[m HEAD@{133}: rebase (abort): updating HEAD
+[33m3916e1e[m HEAD@{134}: rebase (start): checkout develop
+[33mce3bddb[m[33m ([m[1;31morigin/AFI-504-505[m[33m)[m HEAD@{135}: checkout: moving from develop to AFI-512
+[33m3916e1e[m HEAD@{136}: checkout: moving from AFI-504 to develop
+[33m8dcbc96[m[33m ([m[1;31morigin/AFI-504[m[33m, [m[1;32mAFI-504[m[33m)[m HEAD@{137}: commit (merge): Merge branch 'develop' into AFI-504
+[33m65179c9[m HEAD@{138}: checkout: moving from develop to AFI-504
+[33m3916e1e[m HEAD@{139}: pull: Fast-forward
+[33me86d846[m[33m ([m[1;31morigin/yfomin[m[33m)[m HEAD@{140}: checkout: moving from AFI-512 to develop
+[33mce3bddb[m[33m ([m[1;31morigin/AFI-504-505[m[33m)[m HEAD@{141}: reset: moving to HEAD
+[33mce3bddb[m[33m ([m[1;31morigin/AFI-504-505[m[33m)[m HEAD@{142}: checkout: moving from AFI-504-505 to AFI-512
+[33mce3bddb[m[33m ([m[1;31morigin/AFI-504-505[m[33m)[m HEAD@{143}: checkout: moving from develop to AFI-504-505
+[33me86d846[m[33m ([m[1;31morigin/yfomin[m[33m)[m HEAD@{144}: checkout: moving from AFI-504-505 to develop
+[33me86d846[m[33m ([m[1;31morigin/yfomin[m[33m)[m HEAD@{145}: checkout: moving from develop to AFI-504-505
+[33me86d846[m[33m ([m[1;31morigin/yfomin[m[33m)[m HEAD@{146}: checkout: moving from AFI-504 to develop
+[33m65179c9[m HEAD@{147}: checkout: moving from develop to AFI-504
+[33me86d846[m[33m ([m[1;31morigin/yfomin[m[33m)[m HEAD@{148}: checkout: moving from AFI-504 to develop
+[33m65179c9[m HEAD@{149}: commit: AFI-504 adding colors
+[33me86d846[m[33m ([m[1;31morigin/yfomin[m[33m)[m HEAD@{150}: Branch: renamed refs/heads/AFI-colors to refs/heads/AFI-504
+[33me86d846[m[33m ([m[1;31morigin/yfomin[m[33m)[m HEAD@{152}: checkout: moving from develop to AFI-colors
+[33me86d846[m[33m ([m[1;31morigin/yfomin[m[33m)[m HEAD@{153}: clone: from https://git.andersenlab.com/a-finny/a-finny-frontend_react.git

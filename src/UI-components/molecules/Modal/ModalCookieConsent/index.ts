@@ -1,0 +1,1 @@
+export { ModalCookieConsent } from './ModalCookieConsent'

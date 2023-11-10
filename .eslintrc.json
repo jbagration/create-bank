@@ -1,0 +1,140 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true,
+        "jest": true
+    },
+    "extends": [
+        "react-app",
+        "react-app/jest",
+        "airbnb",
+        "airbnb-typescript",
+        "plugin:import/typescript",
+        "plugin:prettier/recommended"
+    ],
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": "latest",
+        "sourceType": "module",
+        "project": "tsconfig.eslint.json"
+    },
+    "plugins": [
+        "react",
+        "@typescript-eslint",
+        "unused-imports",
+        "simple-import-sort",
+        "prettier"
+    ],
+    "rules": {
+        "simple-import-sort/imports": "warn",
+        "simple-import-sort/exports": "warn",
+        "react/require-default-props": "warn",
+        "react/button-has-type": "warn",
+        "react/prop-types": "off",
+        "react-hooks/exhaustive-deps": "warn",
+        "react/destructuring-assignment": "warn",
+        "react/function-component-definition": "off",
+        "react/self-closing-comp": "warn",
+        "react/react-in-jsx-scope": "off",
+        "react/no-array-index-key": "warn",
+        "react/no-unstable-nested-components": "warn",
+        "react/no-unescaped-entities": "warn",
+        "react/no-unused-prop-types": "warn",
+        "react/jsx-props-no-spreading": "warn",
+        "react/jsx-uses-react": "off",
+        "react/jsx-no-useless-fragment": "warn",
+        "react/jsx-no-duplicate-props": "warn",
+        "react/jsx-no-bind": "warn",
+        "react/no-children-prop": "warn",
+        "react/jsx-no-constructed-context-values": "warn",
+        "@typescript-eslint/no-explicit-any": "warn",
+        "@typescript-eslint/no-unused-vars": "warn",
+        "@typescript-eslint/no-unused-expressions": "warn",
+        "@typescript-eslint/no-use-before-define": "warn",
+        "@typescript-eslint/no-shadow": "warn",
+        "@typescript-eslint/naming-convention": "warn",
+        "jsx-a11y/anchor-is-valid": "warn",
+        "jsx-a11y/alt-text": "warn",
+        "jsx-a11y/no-noninteractive-element-interactions": "warn",
+        "jsx-a11y/click-events-have-key-events": "off",
+        "jsx-a11y/no-static-element-interactions": "off",
+        "no-plusplus": "warn",
+        "no-param-reassign": "warn",
+        "no-extra-boolean-cast": "warn",
+        "no-empty": "warn",
+        "no-continue": "warn",
+        "no-nested-ternary": "warn",
+        "no-else-return": "warn",
+        "no-unused-vars": "off",
+        "no-multi-assign": "warn",
+        "global-require": "warn",
+        "array-callback-return": "warn",
+        "prefer-const": "warn",
+        "spaced-comment": "warn",
+        "jest/valid-expect": "warn",
+        "consistent-return": "warn",
+        "default-case": "warn",
+        "eqeqeq": "warn",
+        "import/no-duplicates": "warn",
+        "import/export": "warn",
+        "import/no-cycle": "warn",
+        "import/prefer-default-export": "off",
+        "import/order": ["warn"],
+        "import/no-extraneous-dependencies": "off",
+        "unused-imports/no-unused-imports": "error",
+        "unused-imports/no-unused-vars": [
+            "warn",
+            {
+                "vars": "all",
+                "varsIgnorePattern": "^_",
+                "args": "after-used",
+                "argsIgnorePattern": "^_"
+            }
+        ],
+        "no-restricted-syntax": [
+            "error",
+            "ForInStatement",
+            "LabeledStatement",
+            "WithStatement"
+        ],
+        "prettier/prettier": "warn"
+    },
+    "overrides": [
+        {
+            "files": ["**/*.stories.*"],
+            "rules": {
+                "import/no-anonymous-default-export": "off"
+            }
+        },
+        {
+            "files": ["**/*.ts", "**/*.tsx"],
+            "rules": {
+                "import/no-anonymous-default-export": "off",
+                "simple-import-sort/imports": [
+                    "warn",
+                    {
+                        "groups": [
+                            // `react` first, then packages starting with a character
+                            ["^react$", "^[a-z]", "^@"],
+                            // svg imports
+                            ["^.+\\.s?svg$"],
+                            // Imports starting with `../`
+                            ["^\\.\\.(?!/?$)", "^\\.\\./?$"],
+                            // Imports starting with `./`
+                            ["^\\./(?=.*/)(?!/?$)", "^\\.(?!/?$)", "^\\./?$"],
+                            // Const imports
+                            ["^.+\\.s?const$"],
+                            // Style imports
+                            ["^.+\\.s?style$"],
+                            // Type imports
+                            ["^.+\\.s?type$"]
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

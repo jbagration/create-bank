@@ -1,0 +1,5 @@
+export { BankBranchPage } from './BankBranchPage'
+export { ContactPage } from './ContactPage'
+export { ExchangeRatePage } from './ExchangeRatePage'
+export { Main } from './Main'
+export { MainMenu } from './MainMenu/MainMenu'

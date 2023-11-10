@@ -1,0 +1,1 @@
+export { ItemCardWithText } from './ItemCardWithText'

@@ -1,0 +1,1 @@
+export { ratioToPercent } from './ratioToPercent'

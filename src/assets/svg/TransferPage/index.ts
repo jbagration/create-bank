@@ -1,0 +1,5 @@
+export { ReactComponent as BetweenAccountsIcon } from './BetweenAccountsIcon.svg'
+export { ReactComponent as ByDetailsIcon } from './ByDetailsIcon.svg'
+export { ReactComponent as CardIcon } from './CardIcon.svg'
+export { ReactComponent as PhoneIcon } from './PhoneIcon.svg'
+export { ReactComponent as TransfersIcon } from './TransfersIcon.svg'

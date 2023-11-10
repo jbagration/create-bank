@@ -1,0 +1,573 @@
+[33mcommit ec66a3c68515fb50de4496e2eb858fd257210a41[m[33m ([m[1;36mHEAD -> [m[1;32mAFI-1714[m[33m, [m[1;31morigin/AFI-1714[m[33m)[m
+Author: Semyon Shulga <s.shulga@andersenlab.com>
+Date:   Tue Oct 4 14:18:41 2022 +0000
+
+    Delete forgotPassword.ts
+
+[33mcommit 945d1595cc3afcf2cabac754dab4eb8fb3bee6ee[m
+Author: unknown <s.shulga>
+Date:   Tue Oct 4 17:15:39 2022 +0300
+
+    work with cypress
+
+[33mcommit 77ce538530e9a0605bf21762378f4bc7606e6d02[m
+Author: unknown <s.shulga>
+Date:   Mon Sep 26 17:32:32 2022 +0300
+
+    AFI-1714 autotests for main page and nav links
+
+[33mcommit f5e9ac973000941b173da0333df5a293e9369960[m
+Author: unknown <s.shulga>
+Date:   Fri Sep 23 13:53:13 2022 +0300
+
+    AFI 1714 add cypress lib and start-server-and-test lib
+
+[33mcommit 1f688602862568351651002ff97e98c1d0298545[m
+Author: unknown <s.shulga>
+Date:   Fri Sep 23 13:51:46 2022 +0300
+
+    AFI 1714 add cypress lib and start-server-and-test lib
+
+[33mcommit 7ccb95237506ac51622fe3792e20f119cb5ea8bd[m
+Merge: 187b6cd 3dd47f1
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Thu Sep 22 14:00:07 2022 +0000
+
+    Merge branch 'AFI-1702' into 'develop'
+    
+    AFI-1702: add CreateStatement component
+    
+    Closes AFI-1702
+    
+    See merge request a-finny/a-finny-frontend_react!64
+
+[33mcommit 187b6cde4ef1e1573ddfdc45086475d53677475b[m
+Merge: 1225c5a 940075b
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Thu Sep 22 13:59:57 2022 +0000
+
+    Merge branch 'AFI-1710' into 'develop'
+    
+    AFI-1710
+    
+    See merge request a-finny/a-finny-frontend_react!63
+
+[33mcommit 3dd47f119ad281f996fa83147bd72c407a0ccd29[m
+Author: unknown-cat <twilightcat73@yahoo.com>
+Date:   Wed Sep 21 15:19:58 2022 +0300
+
+    AFI-1702: add CreateStatement component
+
+[33mcommit 940075b8d006bd79161c5089625755112a21c8d5[m[33m ([m[1;32mAFI-1710[m[33m)[m
+Author: unknown <s.shulga>
+Date:   Tue Sep 20 15:41:46 2022 +0300
+
+    change the modal window of the ordered card product
+
+[33mcommit 1225c5a8e820372c16cf0ac2e1fd942281b26979[m
+Merge: c410892 c9ebad4
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Fri Sep 16 10:10:13 2022 +0000
+
+    Merge branch 'AFI-1610' into 'develop'
+    
+    AFI-1610: card products apply (ui)
+    
+    Closes AFI-1610
+    
+    See merge request a-finny/a-finny-frontend_react!62
+
+[33mcommit c410892f90ab687082272db5bb6f8c604555c687[m
+Merge: e6dd1e0 69145b6
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Fri Sep 16 10:10:05 2022 +0000
+
+    Merge branch 'AFI-1454-2' into 'develop'
+    
+    Resolve AFI-1454
+    
+    Closes AFI-1454
+    
+    See merge request a-finny/a-finny-frontend_react!61
+
+[33mcommit c9ebad434e0ba89abfe92f04aa76cdd966174fd6[m
+Author: Liana666 <liana.nikitina98@gmail.com>
+Date:   Fri Sep 16 12:17:14 2022 +0300
+
+    AFI-1610: card products apply (ui)
+
+[33mcommit 69145b68700a63dea701c3a7321abb1a083921b2[m
+Merge: fe952b8 e6dd1e0
+Author: Liana Nikitina <l.nikitina@andersenlab.com>
+Date:   Fri Sep 16 07:03:47 2022 +0000
+
+    Merge branch 'develop' into 'AFI-1454-2'
+    
+    # Conflicts:
+    #   src/UI-components/organisms/OrderCardInfo/OrderCardInfo.const.tsx
+    #   src/UI-components/organisms/OrderCardInfo/OrderCardInfo.tsx
+    #   src/routes/routes.tsx
+
+[33mcommit e6dd1e09022f54241e384244dedbca48e6c59c95[m
+Merge: b7ab290 404a662
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Fri Sep 16 06:43:54 2022 +0000
+
+    Merge branch 'AFI-1609' into 'develop'
+    
+    AFI-1609
+    
+    See merge request a-finny/a-finny-frontend_react!60
+
+[33mcommit fe952b86f3b5c9ff3b2ac930b7032f74a49bbb9d[m
+Author: Andrey-pu <andrey.putchek@gmail.com>
+Date:   Thu Sep 15 18:16:44 2022 +0300
+
+    Fix rebase
+
+[33mcommit 167905cd3101d265a6c9927ef5c5beda3c459a0f[m
+Merge: 88b1712 2e4a8c5
+Author: Andrey-pu <andrey.putchek@gmail.com>
+Date:   Thu Sep 15 17:11:24 2022 +0300
+
+    Merge branch 'AFI-1454-2' of https://git.andersenlab.com/a-finny/a-finny-frontend_react into AFI-1454-2
+
+[33mcommit 88b171245bb08238e10374dd185b89763a80096d[m
+Author: Andrey-pu <andrey.putchek@gmail.com>
+Date:   Thu Sep 15 16:36:06 2022 +0300
+
+    DONE AFI-1454
+
+[33mcommit 0c7964b348f09f3d2f0ba0c282474c854b0d560c[m
+Author: Andrey-pu <andrey.putchek@gmail.com>
+Date:   Fri Sep 2 16:22:58 2022 +0300
+
+    Demo
+
+[33mcommit 2940bf8241fa2f4a17dc9c1509b1898fd55c4aa9[m
+Author: Andrey-pu <andrey.putchek@gmail.com>
+Date:   Fri Sep 2 16:22:58 2022 +0300
+
+    Demo
+
+[33mcommit 2e4a8c5628aab00d8f545184004876cf4d6a8372[m
+Author: Andrey-pu <andrey.putchek@gmail.com>
+Date:   Thu Sep 15 16:36:06 2022 +0300
+
+    DONE AFI-1454
+
+[33mcommit 404a6621dc832451d1aafc1ed9c542ba6f1a185f[m[33m ([m[1;32mAFI-1609[m[33m)[m
+Author: unknown <s.shulga>
+Date:   Thu Sep 15 15:21:02 2022 +0300
+
+    connrct order card info to be
+
+[33mcommit b7ab290c0cc79252ede7e0adbe425bbd545d23c2[m
+Merge: a5afbd5 5881f39
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Wed Sep 14 12:17:02 2022 +0000
+
+    Merge branch 'AFI-1608' into 'develop'
+    
+    AFI-1608
+    
+    Closes AFI-1608
+    
+    See merge request a-finny/a-finny-frontend_react!59
+
+[33mcommit a5afbd5cb2f28bd1f6a65e7114cd98468416a261[m
+Merge: b487198 1b29c88
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Wed Sep 14 12:16:54 2022 +0000
+
+    Merge branch 'AFI-1613' into 'develop'
+    
+    AFI-1613
+    
+    Closes AFI-1613
+    
+    See merge request a-finny/a-finny-frontend_react!58
+
+[33mcommit 5881f399043907644233c63fe4f2a6a781e32d3c[m
+Merge: d6cf3de b487198
+Author: Semyon Shulga <s.shulga@andersenlab.com>
+Date:   Wed Sep 14 08:46:33 2022 +0000
+
+    Merge branch 'develop' into 'AFI-1608'
+    
+    # Conflicts:
+    #   src/routes/routes.tsx
+
+[33mcommit 1b29c8829d6e622f27feaf5472c2540d8256063b[m
+Merge: 281846a b487198
+Author: Semyon Shulga <s.shulga@andersenlab.com>
+Date:   Wed Sep 14 08:45:32 2022 +0000
+
+    Merge branch 'develop' into 'AFI-1613'
+    
+    # Conflicts:
+    #   src/routes/routes.tsx
+
+[33mcommit b4871989c953cbfc12e230a99db947513792947c[m
+Merge: 762f639 d594fd0
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Wed Sep 14 08:43:03 2022 +0000
+
+    Merge branch 'AFI-1605' into 'develop'
+    
+    AFI-1605: create card products (includes 1606)
+    
+    Closes AFI-1605
+    
+    See merge request a-finny/a-finny-frontend_react!57
+
+[33mcommit d6cf3dee7d615ee4457fd10c30e03285527682b8[m[33m ([m[1;32mAFI-1608[m[33m)[m
+Author: unknown <s.shulga>
+Date:   Tue Sep 13 16:07:22 2022 +0300
+
+    create component with personal data about credit product
+
+[33mcommit d594fd08e2baf69b88d0b28b7180d814a4252955[m
+Author: Liana666 <liana.nikitina98@gmail.com>
+Date:   Mon Sep 12 18:59:08 2022 +0300
+
+    AFI-1605: create card products (includes 1606)
+
+[33mcommit bb2dd698f0baa8ceb3f91d335a61a9f92e9b5ea5[m
+Author: unknown <s.shulga>
+Date:   Mon Sep 12 18:01:30 2022 +0300
+
+    detailed information on the card product
+
+[33mcommit 281846a6c56887f43b50fee252898bd607e58258[m
+Merge: 17b4a7f 762f639
+Author: Semyon Shulga <s.shulga@andersenlab.com>
+Date:   Fri Sep 9 14:21:39 2022 +0000
+
+    Merge branch 'develop' into 'AFI-1613'
+    
+    # Conflicts:
+    #   src/routes/routes.tsx
+
+[33mcommit 17b4a7f90508d8eff50a635fcb1941006986c381[m
+Author: SimonSchulz <91724012+SimonSchulz@users.noreply.github.com>
+Date:   Fri Sep 9 17:12:56 2022 +0300
+
+    modal window for success ordered card
+
+[33mcommit 762f63977ef6ee2b24b51b3540d62181469ff871[m
+Merge: 4eab767 970bcf5
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Fri Sep 9 12:07:04 2022 +0000
+
+    Merge branch 'AFI-1464' into 'develop'
+    
+    Resolve AFI-1464
+    
+    Closes AFI-1464
+    
+    See merge request a-finny/a-finny-frontend_react!55
+
+[33mcommit 970bcf530d01a738cc988978855f5782d3e0fd8a[m
+Author: Liana666 <liana.nikitina98@gmail.com>
+Date:   Wed Sep 7 23:37:21 2022 +0300
+
+    AFI-1464: resolving merge conflict
+
+[33mcommit f0dd72dbdd438c11d8eeffa18a1bff38c2f68794[m
+Merge: 1ccb0d9 4eab767
+Author: Liana666 <liana.nikitina98@gmail.com>
+Date:   Wed Sep 7 23:26:56 2022 +0300
+
+    Merge branch 'develop' into AFI-1464
+
+[33mcommit 1ccb0d9fa36fae0b4a629d2befa242420d9400de[m
+Author: Liana666 <liana.nikitina98@gmail.com>
+Date:   Wed Sep 7 23:26:08 2022 +0300
+
+    AFI-1464: create filter fields
+
+[33mcommit 4eab76786f41f5c7e774a69a0e9d57c1561c701e[m
+Merge: 09d9fa0 82fd026
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Wed Sep 7 13:51:25 2022 +0000
+
+    Merge branch 'AFI-1470' into 'develop'
+    
+    AFI-1470 connect manage tab to be
+    
+    See merge request a-finny/a-finny-frontend_react!54
+
+[33mcommit 82fd026ee25f3d3d066b6947332e2e17b1c16019[m
+Author: Semyon Shulga <s.shulga@andersenlab.com>
+Date:   Wed Sep 7 13:20:43 2022 +0000
+
+    Replace package-lock.json
+
+[33mcommit 7ff2db432fcd21b6f97e9cbecb9a1072d45935ba[m
+Author: unknown <s.shulga>
+Date:   Tue Sep 6 16:48:46 2022 +0300
+
+    connect menage tab with backend
+
+[33mcommit 754b34a182ec218bf6a56629247006f4caa94ece[m
+Merge: 09d9fa0 68b56ce
+Author: unknown <s.shulga>
+Date:   Tue Sep 6 10:00:01 2022 +0300
+
+    Merge branch 'AFI-1470' of https://git.andersenlab.com/a-finny/a-finny-frontend_react into AFI-1470
+
+[33mcommit 68b56cee559d6ca16668fdce33bb5644c42fe376[m
+Author: SimonSchulz <91724012+SimonSchulz@users.noreply.github.com>
+Date:   Mon Sep 5 23:08:52 2022 +0300
+
+    work with input validation
+
+[33mcommit 2846c242e2d572bf172a7fec9c9a44cac98543be[m
+Merge: 691a6bc bde9433
+Author: Andrey-pu <andrey.putchek@gmail.com>
+Date:   Fri Sep 2 16:45:04 2022 +0300
+
+    Merge branch 'AFI-1454' of https://git.andersenlab.com/a-finny/a-finny-frontend_react into AFI-1454
+
+[33mcommit 691a6bc4275a9ecf2eb2eb56b5af59473c1eaac0[m
+Author: Andrey-pu <andrey.putchek@gmail.com>
+Date:   Fri Sep 2 16:22:58 2022 +0300
+
+    Demo
+
+[33mcommit bde943309348b5e31368f70dbeaa9ae382be8470[m[33m ([m[1;31morigin/AFI-1454[m[33m)[m
+Author: Andrey-pu <andrey.putchek@gmail.com>
+Date:   Fri Sep 2 16:22:58 2022 +0300
+
+    Demo
+
+[33mcommit 09d9fa05184535b428643a1388e74596126e2791[m
+Author: Liana666 <liana.nikitina98@gmail.com>
+Date:   Fri Sep 2 12:26:19 2022 +0300
+
+    create history content
+
+[33mcommit f243b8b736e8cab17518b184ae0cdd994998a9b8[m
+Merge: 7cca688 0590574
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Fri Sep 2 06:25:43 2022 +0000
+
+    Merge branch 'AFI-1462' into 'develop'
+    
+    AFI-1462: create search field
+    
+    Closes AFI-1462
+    
+    See merge request a-finny/a-finny-frontend_react!52
+
+[33mcommit 05905745d6054323dc8ee59bb6499ea303238e66[m
+Merge: 6e1767d 7cca688
+Author: Liana Nikitina <l.nikitina@andersenlab.com>
+Date:   Thu Sep 1 19:33:17 2022 +0000
+
+    Merge branch 'develop' into 'AFI-1462'
+    
+    # Conflicts:
+    #   src/UI-components/organisms/OperationHistory/OperationHistory.tsx
+    #   src/UI-components/organisms/OperationHistory/OperationHistoryContainer.tsx
+    #   src/UI-components/organisms/TransferOrders/TransferOrders.tsx
+
+[33mcommit 6e1767d57826895279b30075de64d9cb273a902e[m
+Author: Liana666 <liana.nikitina98@gmail.com>
+Date:   Thu Sep 1 22:10:03 2022 +0300
+
+    AFI-1462: create search field
+
+[33mcommit 7cca688510956ff0aeeadb9e7002cf3c16496237[m
+Merge: 8716362 63e836c
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Wed Aug 31 15:07:25 2022 +0000
+
+    Merge branch 'AFI-1461' into 'develop'
+    
+    AFI-1461: create pagination for transactions
+    
+    Closes AFI-1461
+    
+    See merge request a-finny/a-finny-frontend_react!51
+
+[33mcommit 63e836c21a9ac9c6e1cc71765eab4031bbbcc93d[m
+Author: Liana666 <liana.nikitina98@gmail.com>
+Date:   Wed Aug 31 17:59:17 2022 +0300
+
+    AFI-1461: delete console
+
+[33mcommit 94b9a5c9a0370151116378dccffbfb1dcea60e46[m
+Author: Liana666 <liana.nikitina98@gmail.com>
+Date:   Wed Aug 31 17:54:55 2022 +0300
+
+    AFI-1461: create pagination for transactions
+
+[33mcommit 87163627cc1d9f5c2637aacea56deff989d193e8[m
+Merge: 5fd02ee d1ffa81
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Wed Aug 31 12:57:04 2022 +0000
+
+    Merge branch 'AFI-1469' into 'develop'
+    
+    AFI-1469: create modal window for block/unlock card
+    
+    Closes AFI-1469
+    
+    See merge request a-finny/a-finny-frontend_react!50
+
+[33mcommit d1ffa81f32c86f3bc020c3d366ba2a76522227fa[m
+Merge: 3893217 5fd02ee
+Author: Semyon Shulga <s.shulga@andersenlab.com>
+Date:   Wed Aug 31 09:01:55 2022 +0000
+
+    Merge branch 'develop' into 'AFI-1469'
+    
+    # Conflicts:
+    #   src/assets/svg/index.ts
+
+[33mcommit 38932172bff57354dbfe5ee666ad88ccc00ed0f5[m
+Author: SimonSchulz <91724012+SimonSchulz@users.noreply.github.com>
+Date:   Wed Aug 31 11:55:27 2022 +0300
+
+    resolve conflict
+
+[33mcommit 5fd02ee815bcc7da07626bc52a6d237ad64713a1[m
+Merge: 1d73fdc 3bee930
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Wed Aug 31 06:09:28 2022 +0000
+
+    Merge branch 'AFI-1467' into 'develop'
+    
+    AFI-1467: Tab manage
+    
+    Closes AFI-1467
+    
+    See merge request a-finny/a-finny-frontend_react!48
+
+[33mcommit 1d73fdc1710288de8a0580396929c0745f527972[m
+Merge: 6c274ca a27ad38
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Wed Aug 31 06:06:05 2022 +0000
+
+    Merge branch 'AFI-1459' into 'develop'
+    
+    AFI-1459: transactions list
+    
+    Closes AFI-1459
+    
+    See merge request a-finny/a-finny-frontend_react!47
+
+[33mcommit 8d0ba03e3d0032156058ab1183e383859a88183a[m
+Author: SimonSchulz <91724012+SimonSchulz@users.noreply.github.com>
+Date:   Tue Aug 30 18:00:20 2022 +0300
+
+    create modal window for block/unlock card
+
+[33mcommit a27ad388175cfe077970f295a97e4ba77f1b61e0[m
+Author: Liana666 <liana.nikitina98@gmail.com>
+Date:   Tue Aug 30 13:23:26 2022 +0300
+
+    AFI-1459: delete switch
+
+[33mcommit 3bee930c86d7b12b9025e261e857b62d547ad112[m
+Author: SimonSchulz <91724012+SimonSchulz@users.noreply.github.com>
+Date:   Tue Aug 30 12:04:34 2022 +0300
+
+    fix color style and routing
+
+[33mcommit 1c502eac1ed903acf17399178e42f5b40e6d35c0[m
+Author: Liana666 <liana.nikitina98@gmail.com>
+Date:   Tue Aug 30 11:23:30 2022 +0300
+
+    AFI-1459: transactions list
+
+[33mcommit ce956294ab1ddd445be1d233275b5fa3b728f7cd[m
+Author: SimonSchulz <91724012+SimonSchulz@users.noreply.github.com>
+Date:   Mon Aug 29 19:32:29 2022 +0300
+
+    create tab manageÐ
+
+[33mcommit 6c274cad961da2d2a845a91da440125e78cb8bd0[m
+Merge: b5b49e4 d3fc531
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Mon Aug 29 06:07:34 2022 +0000
+
+    Merge branch 'AFI-1177' into 'develop'
+    
+    Resolve AFI-1177
+    
+    Closes AFI-1177
+    
+    See merge request a-finny/a-finny-frontend_react!45
+
+[33mcommit d3fc5310a16d697d39df89cfb27ff8a88cc9cb90[m
+Author: Liana666 <liana.nikitina98@gmail.com>
+Date:   Sat Aug 27 12:30:19 2022 +0300
+
+    AFI-1177: refactoring input with slider
+
+[33mcommit b7ebf6302fa619a22ae5d0bf2e37a4e9ef7fd4df[m
+Merge: 1e0068d b5b49e4
+Author: Liana666 <liana.nikitina98@gmail.com>
+Date:   Fri Aug 26 17:19:02 2022 +0300
+
+    Merge branch 'develop' into AFI-1177
+
+[33mcommit 1e0068d3188160944cd89c4382a792267c037d30[m
+Merge: 1c90c32 724786f
+Author: Liana666 <liana.nikitina98@gmail.com>
+Date:   Fri Aug 26 17:18:10 2022 +0300
+
+    AFI-1177: Create form for new apply
+
+[33mcommit b5b49e452edcd75f92930edc5a70a2000e128ccc[m
+Merge: 6443964 724786f
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Fri Aug 19 12:58:00 2022 +0000
+
+    Merge branch 'AFI-1170' into 'develop'
+    
+    Resolve AFI-1170
+    
+    Closes AFI-1170
+    
+    See merge request a-finny/a-finny-frontend_react!44
+
+[33mcommit 1c90c328e722478259f5d7819801a866d362ac8b[m
+Author: Liana666 <liana.nikitina98@gmail.com>
+Date:   Fri Aug 19 13:52:49 2022 +0300
+
+    AFI-1177: Connecting loan application
+
+[33mcommit 724786f5e3e6a6a2661700c3878e72dc2a9124b7[m
+Author: Andrey-pu <andrey.putchek@gmail.com>
+Date:   Fri Aug 19 13:13:53 2022 +0300
+
+    min fix
+
+[33mcommit 70d62e67b2e155573e4cfb2de1a39bf64ffe36ce[m
+Author: Andrey-pu <andrey.putchek@gmail.com>
+Date:   Fri Aug 19 12:51:30 2022 +0300
+
+    all Done
+
+[33mcommit 0df874fb220b84b80e6f3a0db0477032d421af29[m
+Author: Andrey-pu <andrey.putchek@gmail.com>
+Date:   Wed Aug 17 14:16:18 2022 +0300
+
+    AFI-1170 Done
+
+[33mcommit 6443964d1251c1ad3307b7366cb6637c97ca6e2d[m
+Merge: 4a56d5d ff12b50
+Author: Vladislav Nagaqenko <v.nagaqenko@andersenlab.com>
+Date:   Wed Aug 17 13:21:21 2022 +0000
+
+    Merge branch 'AFI-1223' into 'develop'
+    
+    AFI-1223: linking history witth BE
+    
+    Closes AFI-1223
+    
+    See merge request a-finny/a-finny-frontend_react!43

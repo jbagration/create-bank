@@ -1,0 +1,1 @@
+export { DepositProductDetails } from './DepositProductDetails'

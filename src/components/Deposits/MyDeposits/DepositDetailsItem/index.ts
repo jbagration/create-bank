@@ -1,0 +1,1 @@
+export { DepositDetailsItem } from './DepositDetailsItem'

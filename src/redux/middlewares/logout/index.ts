@@ -1,0 +1,1 @@
+export { logoutMiddleware } from './logoutMiddleware'

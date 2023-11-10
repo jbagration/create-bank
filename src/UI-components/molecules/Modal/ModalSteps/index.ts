@@ -1,0 +1,8 @@
+export * from './FinalStep'
+export * from './ModalSteps.type'
+export * from './PhoneNumberForm'
+export { SecurityQuestionForm } from './SecurityQuestionForm'
+export { SetClientDataForm } from './SetClientDataForm'
+export * from './SetPasswordForm'
+export { SmsVerificationForm } from './SmsVerificationForm'
+export * from './TextPolicyPrivacy'

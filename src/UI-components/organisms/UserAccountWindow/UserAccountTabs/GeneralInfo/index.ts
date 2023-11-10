@@ -1,0 +1,1 @@
+export { GeneralInfoTab } from './GeneralInfoTab'

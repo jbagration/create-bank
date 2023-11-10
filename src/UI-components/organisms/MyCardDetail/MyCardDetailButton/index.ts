@@ -1,0 +1,1 @@
+export { MyCardDetailButton } from './MyCardDetailButton'

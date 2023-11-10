@@ -1,0 +1,1 @@
+export { SliderSlick } from './SliderSlick'

@@ -1,0 +1,1 @@
+export { CaptionIcon } from './CaptionIcon'

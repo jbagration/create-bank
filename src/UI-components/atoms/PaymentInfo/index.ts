@@ -1,0 +1,1 @@
+export { RowInPaymentTable } from './RowInPaymentTable'

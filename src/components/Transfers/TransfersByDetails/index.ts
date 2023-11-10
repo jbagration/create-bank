@@ -1,0 +1,1 @@
+export { TransfersByDetailsContainer } from './TransfersByDetailsContainer'

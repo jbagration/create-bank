@@ -1,0 +1,1 @@
+export { getCardLabel } from './getCardLabel'

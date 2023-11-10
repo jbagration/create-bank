@@ -1,0 +1,6 @@
+export const rateDescribe = 'годовых'
+export const month = 'срок в месяцах'
+export const minAmount = 'мин. взнос'
+export const depositMode = 'тип депозита'
+export const currencyText = 'валюта'
+export const link = 'Подробнее'
